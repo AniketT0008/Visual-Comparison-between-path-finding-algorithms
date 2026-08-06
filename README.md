@@ -1,5 +1,7 @@
 # Visual Comparison of Pathfinding Algorithms
 
+![Pathfinding comparison demo](demos/pathfinding-comparison-demo.gif)
+
 Run **six** maze solvers on the *same* maze at once and watch them race in a 3×2 grid: single-source **BFS / DFS / A\***, and their **bidirectional (dual)** versions that search from the start and goal simultaneously.
 
 Built with Python + Pygame.
